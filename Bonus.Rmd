@@ -6,4 +6,5 @@ output: html_notebook
 
 ```{r}
 plot(Loblolly$height,Loblolly$age, col = "red")
+plot(Loblolly$height,Loblolly$Seed , col = "blue")
 ```
