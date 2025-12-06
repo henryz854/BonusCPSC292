@@ -5,5 +5,5 @@ output: html_notebook
 ---
 
 ```{r}
-plot(Loblolly$height,Loblolly$age)
+plot(Loblolly$height,Loblolly$age, col = "red")
 ```
